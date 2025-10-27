@@ -1,3 +1,8 @@
 title: "Peter Avgerinos"
-description: "Personal Page of Peter Avgerinos"
+description: "Research and Portofolio Website"
 theme: minima
+
+header_pages:
+  - index.md
+  - projects.md
+  - erminia.md

@@ -1,4 +1,6 @@
-# Hello World! 👋 
+--
+title: Hello World! 👋 
+--
 
 My name is **Petros (Peter) Avgerinos** and I am a MSc student at **Imperial College London**,
 studying Applied Computational Science and Engineering. My undergrad degree was a 5 year
@@ -18,10 +20,10 @@ by humans and LLMs. You can find more about this on the [Erminia](ermnia.md) pro
 
 ## Publications
 
+This study focuses on the field of Explainable Artificial Intelligence (XAI) and its application in the development of machine learning models for dementia detection through speech analysis. The research was conducted as part of the COMFORTAGE project, which aims to develop tools for monitoring and diagnosing dementia patients.
 - [AI Applications for the Betterment of Quality of Life in Dementia Patients](https://dspace.lib.ntua.gr/xmlui/handle/123456789/61054?show=full)
 
 ## Contact
 
 - Email: peteravgerinos@gmail.com
 - Github: [@peter-avg](https://github.com/peter-avg)
-
