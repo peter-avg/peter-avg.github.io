@@ -3,13 +3,25 @@ title: Hello World! 👋
 layout: page
 ---
 
-<img src="assets/me.png" alt="Peter Avg" style="width:180px; border-radius:50%; display:block; margin:20px auto; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
 
-My name is **Petros (Peter) Avgerinos** and I am a MSc student at **Imperial College London**,
-studying Applied Computational Science and Engineering. My undergrad degree was a 5 year
-diploma in Electrical and Computer Engineering from the **National Technical University of Athens (NTUA)**.
-After graduating from NTUA in 2024, I joined the ENP Group at the Institute of Communication and Computer Systems (ICCS)
-as a research associate, working on a variety of projects related to the responsible development and deployment of trustworthy AI systems.
+  <div style="flex: 0 0 200px;">
+    <img src="assets/me.jpg" alt="Peter Avgerinos" 
+         style="width: 180px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+  </div>
+
+  <div style="flex: 1; min-width: 250px;">
+    <p>My name is <strong>Petros (Peter) Avgerinos</strong> and I am an MSc student at 
+    <strong>Imperial College London</strong>, studying Applied Computational Science and Engineering.</p>
+
+    <p>My undergraduate degree was a 5-year diploma in Electrical and Computer Engineering 
+    from the <strong>National Technical University of Athens (NTUA)</strong>. After graduating from NTUA in 2024, 
+    I joined the <strong>ENP Group</strong> at the Institute of Communication and Computer Systems (ICCS) 
+    as a research associate, working on a variety of projects related to the responsible development 
+    and deployment of trustworthy AI systems.</p>
+  </div>
+
+</div>
 
 ## Research Interests
 
