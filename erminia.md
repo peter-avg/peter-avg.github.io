@@ -3,6 +3,10 @@ title: Erminia
 layout: page
 ---
 
+<div style="background-color: #fff3cd; border-left: 5px solid #ffeeba; padding: 10px; margin: 20px 0; border-radius: 5px;">
+<strong>Disclaimer:</strong> This project is still a work in progress and many of the features are not yet implemented. Please contact me if you would like to collaborate or contribute!
+</div>
+
 # A Domain-Specific Language for interpreting ARC-AGI abstracted Images as code
 
 The Erminia DSL is a collection of software tools and libraries designed to 

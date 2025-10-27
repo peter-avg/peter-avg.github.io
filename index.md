@@ -31,12 +31,12 @@ I am also very much interested in the use of these technologies for reaching Art
 
 I am currently involved in a personal research project that aims to create an expressive 
 DSL to efficiently allow for the interpretation of Abstraction and Reasoning Corpus (ARC) images as code, 
-by humans and LLMs. You can find more about this on the [Erminia](ermnia.md) project page.
+by humans and LLMs. You can find more about this on the [Erminia](./ermnia.md) project page.
+Please feel free to reach out if you would like to discuss this project or collaborate!
 
 ## Publications
 
-This study focuses on the field of Explainable Artificial Intelligence (XAI) and its application in the development of machine learning models for dementia detection through speech analysis. The research was conducted as part of the COMFORTAGE project, which aims to develop tools for monitoring and diagnosing dementia patients.
-- [AI Applications for the Betterment of Quality of Life in Dementia Patients](https://dspace.lib.ntua.gr/xmlui/handle/123456789/61054?show=full)
+- Avgerinos, Petros (2024), "AI Applications for the Betterment of Quality of Life in Dementia Patients" [https://dspace.lib.ntua.gr/xmlui/handle/123456789/61054?show=full](https://dspace.lib.ntua.gr/xmlui/handle/123456789/61054?show=full)
 
 ## Contact
 
