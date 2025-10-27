@@ -4,6 +4,10 @@ layout: page
 permalink: /erminia/
 ---
 
+<div style="text-align:center; font-style:italic; font-size:1.2em; color:#555; margin: 10px 0;">
+  “Erminia” — Greek for <strong>Interpretation</strong>
+</div>
+
 <div style="background-color: #fff3cd; border-left: 5px solid #ffeeba; padding: 10px; margin: 20px 0; border-radius: 5px;">
 <strong>Disclaimer:</strong> This project is still a work in progress and many of the features are not yet implemented.
 Please contact me if you would like to collaborate or contribute!
