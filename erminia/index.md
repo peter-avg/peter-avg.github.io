@@ -23,7 +23,16 @@ Please contact me if you would like to collaborate or contribute!
   ARC-AGI images, and allow researchers and developers wanting to participate in the 
   ARC-AGI challenge to fine-tune Large Language Models (LLMs) on this representation, leveraging
   the inherent ability of LLMs to predict and generate code snippets,
-  as opposed to interpreting images directly.</p>
+  as opposed to interpreting images directly.
+
+  The code for this project is open-source and hosted on GitHub. You can find the repository 
+  <a href="https://github.com/vertical-playground/erminia" target="_blank" style="color: #0073b1; text-decoration: underline;">
+    here
+  </a>.
+
+
+
+  </p>
   </div>
 
 <!-- <div style="flex: 0 0 200px; position: sticky; top: 20px;"> -->
