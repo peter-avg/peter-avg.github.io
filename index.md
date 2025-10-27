@@ -37,7 +37,7 @@ I am also very much interested in the use of these technologies for reaching Art
 
 I am currently involved in a personal research project that aims to create an expressive 
 DSL to efficiently allow for the interpretation of Abstraction and Reasoning Corpus (ARC) images as code, 
-by humans and LLMs. You can find more about this on the [Erminia](./ermnia.md) project page.
+by humans and LLMs. You can find more about this on the [Erminia](/erminia/index.md) project page.
 Please feel free to reach out if you would like to discuss this project or collaborate!
 
 ## Publications
