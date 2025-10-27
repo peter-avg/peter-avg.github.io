@@ -13,11 +13,9 @@ permalink: /erminia/
 Please contact me if you would like to collaborate or contribute!
 </div>
 
-<div style="display: flex; gap: 40px; flex-wrap: wrap;">
-
-  <div style="flex: 1; min-width: 300px;">
 # A Domain-Specific Language for interpreting ARC-AGI abstracted images as code
-
+<div style="display: flex; gap: 40px; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 300px;">
     The Erminia DSL is a collection of software tools and libraries designed to 
     facilitate the interpretation of ARC-AGI abstracted images as code. The primary
     motivation for creating this language is to provide a standardized way to represent
@@ -29,8 +27,8 @@ Please contact me if you would like to collaborate or contribute!
 
   <div style="flex: 0 0 200px; position: sticky; top: 20px;">
   ### Menu
-  - [Overview](/erminia/overview/)
-  - [Object Declaration](/erminia/grammar/)
+  - [Overview](./erminia/overview.md)
+  - [Object Declaration](./erminia/grammar.md)
   </div>
 
 </div>
