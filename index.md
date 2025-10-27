@@ -17,9 +17,8 @@ layout: page
 
     <p>My undergraduate degree was a 5-year diploma in Electrical and Computer Engineering 
     from the <strong>National Technical University of Athens (NTUA)</strong>. After graduating from NTUA in 2024, 
-    I joined the <strong>ENP Group</strong> at the Institute of Communication and Computer Systems (ICCS) 
-    as a research associate, working on a variety of projects related to the responsible development 
-    and deployment of trustworthy AI systems.</p>
+    I joined the Institute of Communication and Computer Systems (ICCS) as a research associate,
+    working on a variety of projects related to the responsible development and deployment of trustworthy AI systems.</p>
   </div>
 
 </div>
@@ -38,3 +37,7 @@ Please feel free to reach out if you would like to discuss this project or colla
 ## Publications
 
 - Avgerinos, Petros (2024), "AI Applications for the Betterment of Quality of Life in Dementia Patients" [https://dspace.lib.ntua.gr/xmlui/handle/123456789/61054?show=full](https://dspace.lib.ntua.gr/xmlui/handle/123456789/61054?show=full)
+
+## CV
+
+You can download my CV [here](assets/Petros_Avgerinos_CV.pdf).
