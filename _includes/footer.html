@@ -10,5 +10,11 @@
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" style="width: 24px; height: 24px;">
     </a>
   </div>
-  <p style="margin-top: 10px; font-size: 0.9em; color: #555;">© 2025 Peter Avgerinos</p>
+  <p style="margin-top: 10px; font-size: 0.9em; color: #555;">
+    © <span id="currentYear"></span> Peter Avgerinos
+  </p>
+
+  <script>
+    document.getElementById('currentYear').textContent = new Date().getFullYear();
+  </script>
 </footer>
