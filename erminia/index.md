@@ -29,8 +29,8 @@ Please contact me if you would like to collaborate or contribute!
 <div style="flex: 0 0 200px; position: sticky; top: 20px;">
 <h3>Menu</h3>
     <ul>
-      <li><a href="./erminia/overview/">Overview</a></li>
-      <li><a href="./erminia/grammar/">Grammar</a></li>
+      <li><a href="./erminia/overview.md">Overview</a></li>
+      <li><a href="./erminia/grammar.md">Grammar</a></li>
     </ul>
   </div>
 
