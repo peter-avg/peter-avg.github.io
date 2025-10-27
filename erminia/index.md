@@ -1,0 +1,32 @@
+---
+title: Erminia
+layout: page
+permalink: /erminia/
+---
+
+<div style="background-color: #fff3cd; border-left: 5px solid #ffeeba; padding: 10px; margin: 20px 0; border-radius: 5px;">
+<strong>Disclaimer:</strong> This project is still a work in progress and many of the features are not yet implemented.
+Please contact me if you would like to collaborate or contribute!
+</div>
+
+<div style="display: flex; gap: 40px; flex-wrap: wrap;">
+
+  <div style="flex: 1; min-width: 300px;">
+# A Domain-Specific Language for interpreting ARC-AGI abstracted images as code
+
+    The Erminia DSL is a collection of software tools and libraries designed to 
+    facilitate the interpretation of ARC-AGI abstracted images as code. The primary
+    motivation for creating this language is to provide a standardized way to represent
+    ARC-AGI images, and allow researchers and developers wanting to participate in the 
+    ARC-AGI challenge to fine-tune Large Language Models (LLMs) on this representation, leveraging
+    the inherent ability of LLMs to predict and generate code snippets,
+    as opposed to interpreting images directly. 
+  </div>
+
+  <div style="flex: 0 0 200px; position: sticky; top: 20px;">
+  ### Menu
+  - [Overview](/erminia/overview/)
+  - [Object Declaration](/erminia/grammar/)
+  </div>
+
+</div>

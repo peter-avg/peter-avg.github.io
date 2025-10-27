@@ -1,18 +1,8 @@
 ---
-title: Erminia
+title: Overview
 layout: page
+permalink: /erminia/overview/
 ---
-
-<div style="background-color: #fff3cd; border-left: 5px solid #ffeeba; padding: 10px; margin: 20px 0; border-radius: 5px;">
-<strong>Disclaimer:</strong> This project is still a work in progress and many of the features are not yet implemented. Please contact me if you would like to collaborate or contribute!
-</div>
-
-# A Domain-Specific Language for interpreting ARC-AGI abstracted Images as code
-
-The Erminia DSL is a collection of software tools and libraries designed to 
-facilitate the interpretation of ARC-AGI abstracted images as code. The primary
-motivation for creating this language is the inherent ability of LLMs to predict 
-and generate code snippets, as opposed to interpreting images directly. 
 
 ## Overview
 
@@ -22,6 +12,22 @@ the user instantiating an object, naming it and specifying its coordinates and c
 The user has at their disposal a variety of functions called `primitives`, that allow
 him to manipulate objects in various ways, such as moving them around the grid,
 changing their colors, rotating them, etc.
+
+The structure of an Erminia program, as shown later through examples and grammar,
+is composed by the declaration of examples inside a problem statement scope. Each
+example contains an input and an output section, and the user may use the declared 
+objects and standard library primitives to interpret the input and output image as code.
+
+### Program Structure
+
+
+
+```cpp
+
+
+
+
+```
 
 ### Object Declaration
 
