@@ -3,8 +3,6 @@ title: Projects
 layout: page
 ---
 
-# Projects
-
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
