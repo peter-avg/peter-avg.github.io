@@ -8,6 +8,18 @@ layout: page
   <div style="flex: 0 0 200px;">
     <img src="assets/me.jpg" alt="Peter Avgerinos" 
          style="width: 180px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+
+    <div style="margin-top: 15px; display: flex; justify-content: center; gap: 10px;">
+      <a href="https://www.linkedin.com/in/petrosavgerinos/" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" style="width: 24px; height: 24px;">
+      </a>
+      <a href="https://github.com/peter-avg" target="_blank" style="text-decoration: none;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" style="width: 24px; height: 24px;">
+      </a>
+      <a href="mailto:peteravgerinos@gmail.com" style="text-decoration: none;">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" style="width: 24px; height: 24px;">
+      </a>
+    </div>
   </div>
 
   <div style="flex: 1; min-width: 250px;">
@@ -37,8 +49,3 @@ Please feel free to reach out if you would like to discuss this project or colla
 ## Publications
 
 - Avgerinos, Petros (2024), "AI Applications for the Betterment of Quality of Life in Dementia Patients" [https://dspace.lib.ntua.gr/xmlui/handle/123456789/61054?show=full](https://dspace.lib.ntua.gr/xmlui/handle/123456789/61054?show=full)
-
-## Contact
-
-- Email: [peteravgerinos@gmail.com](mailto:)
-- Github: [@peter-avg](https://github.com/peter-avg)
