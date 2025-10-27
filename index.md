@@ -1,6 +1,7 @@
---
+---
 title: Hello World! 👋 
---
+layout: page
+---
 
 My name is **Petros (Peter) Avgerinos** and I am a MSc student at **Imperial College London**,
 studying Applied Computational Science and Engineering. My undergrad degree was a 5 year
@@ -15,7 +16,7 @@ Specific Languages (DSLs) for modelling and simulating real-world complex system
 I am also very much interested in the use of these technologies for reaching Artificial General Intelligence (AGI).
 
 I am currently involved in a personal research project that aims to create an expressive 
-DSL to efficiently allow for the interpretation of Abstraction and Reasoning Corpus (ARC) images 
+DSL to efficiently allow for the interpretation of Abstraction and Reasoning Corpus (ARC) images as code, 
 by humans and LLMs. You can find more about this on the [Erminia](ermnia.md) project page.
 
 ## Publications
