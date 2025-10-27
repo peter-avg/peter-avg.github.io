@@ -3,6 +3,8 @@ title: Hello World! 👋
 layout: page
 ---
 
+<img src="assets/me.png" alt="Peter Avg" style="width:180px; border-radius:50%; display:block; margin:20px auto; box-shadow:0 0 10px rgba(0,0,0,0.1);">
+
 My name is **Petros (Peter) Avgerinos** and I am a MSc student at **Imperial College London**,
 studying Applied Computational Science and Engineering. My undergrad degree was a 5 year
 diploma in Electrical and Computer Engineering from the **National Technical University of Athens (NTUA)**.
@@ -26,5 +28,5 @@ This study focuses on the field of Explainable Artificial Intelligence (XAI) and
 
 ## Contact
 
-- Email: peteravgerinos@gmail.com
+- Email: [peteravgerinos@gmail.com](mailto:)
 - Github: [@peter-avg](https://github.com/peter-avg)
