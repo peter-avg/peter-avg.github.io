@@ -9,7 +9,7 @@ layout: page
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
     <img src="assets/hello.gif" alt="Alan Compiler" style="width:100%; border-radius:10px;">
-    <h3><a href="https://github.com/peter-avg/DEMET">Alan Compiler</a></h3>
+    <h3><a href="https://github.com/peter-avg/Alan-Compiler">Alan Compiler</a></h3>
     <p>A compiler for the Alan Programming Language in C++14, using Flex for lexical analysis, Bison for
 parsing tokens into syntactically valid constructs and LLVM for generating optimized bytecode across multiple target
 architectures.</p>
