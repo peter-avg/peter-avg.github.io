@@ -26,12 +26,12 @@ Please contact me if you would like to collaborate or contribute!
   as opposed to interpreting images directly.</p>
   </div>
 
-<div style="flex: 0 0 200px; position: sticky; top: 20px;">
-<h3>Menu</h3>
-    <ul>
-      <li><a href="/erminia/overview/">Overview</a></li>
-      <li><a href="/erminia/grammar/">Grammar</a></li>
-    </ul>
-  </div>
+<!-- <div style="flex: 0 0 200px; position: sticky; top: 20px;"> -->
+<!-- <h3>Menu</h3> -->
+<!--     <ul> -->
+<!--       <li><a href="/erminia/overview/">Overview</a></li> -->
+<!--       <li><a href="/erminia/grammar/">Grammar</a></li> -->
+<!--     </ul> -->
+<!--   </div> -->
 
 </div>
