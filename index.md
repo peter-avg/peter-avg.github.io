@@ -3,18 +3,6 @@ title: Hello World! 👋
 layout: page
 ---
 
-<div style="margin-top: 15px; display: flex; justify-content: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/petrosavgerinos/" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" style="width: 20px; height: 20px;">
-  </a>
-  <a href="https://github.com/peter-avg" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" style="width: 20px; height: 20px;">
-  </a>
-  <a href="mailto:peteravgerinos@gmail.com" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" style="width: 20px; height: 20px;">
-  </a>
-</div>
-
 <div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
 
   <div style="flex: 0 0 200px;">
