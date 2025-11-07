@@ -39,7 +39,3 @@ I am currently involved in a personal research project that aims to create an ex
 DSL to efficiently allow for the interpretation of Abstraction and Reasoning Corpus (ARC) images as code, 
 by humans and LLMs. You can find more about this on the [Erminia](/erminia/index.md) project page.
 Please feel free to reach out if you would like to discuss this project or collaborate!
-
-## Publications
-
-- Avgerinos, Petros (2024), "AI Applications for the Betterment of Quality of Life in Dementia Patients" [https://dspace.lib.ntua.gr/xmlui/handle/123456789/61054?show=full](https://dspace.lib.ntua.gr/xmlui/handle/123456789/61054?show=full)
