@@ -21,7 +21,7 @@ layout: page
     working on a variety of projects related to the responsible development and deployment of trustworthy AI systems.</p>
 
   <p>You can view my CV 
-  <a href="assets/Petros_Avgerinos_CV.pdf" target="_blank" style="color: #0073b1; text-decoration: underline;">
+  <a href="assets/Petros Avgerinos CV.pdf" target="_blank" style="color: #0073b1; text-decoration: underline;">
     here
   </a>.
   </p>
