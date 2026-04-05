@@ -13,7 +13,10 @@ layout: page
 
   <div style="flex: 1; min-width: 250px;">
     <p>My name is <strong>Petros (Peter) Avgerinos</strong> and I am an MSc student at 
-    <strong>Imperial College London</strong>, studying Applied Computational Science and Engineering.</p>
+    <strong>Imperial College London</strong>, studying Applied Computational Science and Engineering.
+    I am currently working towards my thesis, under the supervision of <strong>Professor Rhodri Nelson</strong>
+    (Imperial College London) and <strong>Professor Fernando Pereira</strong> (Compilers Lab - UFMG) to reformulate
+    the Sparsity Propagation Analysis (SPA) Pass, as a static analysis within the MLIR Framework.</p>
 
     <p>My undergraduate degree was a 5-year diploma in Electrical and Computer Engineering 
     from the <strong>National Technical University of Athens (NTUA)</strong>. After graduating from NTUA in 2024, 

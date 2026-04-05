@@ -1,6 +1,7 @@
 ---
 title: Projects
 layout: page
+permalink: /projects/
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
@@ -11,6 +12,13 @@ layout: page
     <p>A compiler for the Alan Programming Language in C++14, using Flex for lexical analysis, Bison for
 parsing tokens into syntactically valid constructs and LLVM for generating optimized bytecode across multiple target
 architectures.</p>
+  </div>
+
+  <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+    <img src="assets/CF.gif" alt="Image Processing" style="width:100%; border-radius:10px;">
+    <p>A unified C++ command-line image processing library addressing 2D spatial filtering, 3D volume projections, and slicing operations.
+    This project implements core computational algorithms from scratch. This includes bespoke median-finding algorithms,
+    custom convolution spatial loops, and manual memory management for large 3D datasets, ensuring a deep understanding of algorithmic complexity and software sustainability.</p>
   </div>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
