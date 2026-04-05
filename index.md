@@ -16,7 +16,7 @@ layout: page
     <strong>Imperial College London</strong>, studying Applied Computational Science and Engineering.
     I am currently working towards my thesis, under the supervision of <strong>Professor Rhodri Nelson</strong>
     (Imperial College London) and <strong>Professor Fernando Pereira</strong> (Compilers Lab - UFMG) to reformulate
-    the Sparsity Propagation Analysis (SPA) Pass, as a static analysis within the MLIR Framework.</p>
+    the Sparsity Propagation Analysis (SPA) Pass, as a static analysis pass within the MLIR Framework.</p>
 
     <p>My undergraduate degree was a 5-year diploma in Electrical and Computer Engineering 
     from the <strong>National Technical University of Athens (NTUA)</strong>. After graduating from NTUA in 2024, 
@@ -33,11 +33,11 @@ layout: page
 ## Interests
 
 I am currently drawn to the use of Compiler Infrastructure, such as <strong>LLVM and MLIR</strong>,
-for optimizing Compilers and  Domain Specific Languages (DSLs), particularly in the space of modelling and simulation.
+for <strong>optimizing Compilers and  Domain Specific Languages (DSLs)</strong>, particularly in the space of <em>modelling and simulation</em>.
 Some questions that are fascinating to me include: 
 1. How can we exploit tensor sparsity to transform a computational graph statically through a compiler pass?
-2. How can we exploit different rounding modes, such as Stochastic Rounding, to minimize the upper bound of the error in a numerical application, through the compiler?
-3. Can we statically infer about the correctness of a numerical solver that runs on a cluster, based on its properties and some weak memory model?
+2. How can we exploit different rounding modes, such as Stochastic Rounding, to minimize the upper bound of the propagating error in a numerical application, through the compiler?
+3. Can we statically infer about the correctness of a numerical solver that runs on a cluster, based on its properties and a given weak memory model?
 
 I am also particularly interested in the combination of DSLs and Large Language Models (LLMs) for solving complex
 issues such as transforming ambiguous requirements to applications and enabling abstract thinking in LLMs.
