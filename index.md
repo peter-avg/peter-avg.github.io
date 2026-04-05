@@ -21,19 +21,23 @@ layout: page
     working on a variety of projects related to the responsible development and deployment of trustworthy AI systems.</p>
 
   <p>You can view my CV 
-  <a href="assets/Petros Avgerinos CV.pdf" target="_blank" style="color: #0073b1; text-decoration: underline;">
-    here
-  </a>.
+  <a href="assets/Petros Avgerinos CV.pdf" target="_blank" style="color: #0073b1; text-decoration: underline;"> here </a>.
   </p>
   </div>
 
 </div>
 
-## Research Interests
+## Interests
 
-Among other things, I am currently particularly drawn to the use of Compilers and  Domain
-Specific Languages (DSLs) for modelling and simulating real-world complex systems.
-I am also very much interested in the use of these technologies for reaching Artificial General Intelligence (AGI).
+I am currently drawn to the use of Compiler Infrastructure, such as <strong>LLVM and MLIR</strong>,
+for optimizing Compilers and  Domain Specific Languages (DSLs), particularly in the space of modelling and simulation.
+Some questions that are fascinating to me include: 
+1. How can we exploit tensor sparsity to transform a computational graph statically through a compiler pass?
+2. How can we exploit different rounding modes, such as Stochastic Rounding, to minimize the upper bound of the error in a numerical application, through the compiler?
+3. Can we statically infer about the correctness of a numerical solver that runs on a cluster, based on its properties and some weak memory model?
+
+I am also particularly interested in the combination of DSLs and Large Language Models (LLMs) for solving complex
+issues such as transforming ambiguous requirements to applications and enabling abstract thinking in LLMs.
 
 I am currently involved in a personal research project that aims to create an expressive 
 DSL to efficiently allow for the interpretation of Abstraction and Reasoning Corpus (ARC) images as code, 

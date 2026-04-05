@@ -5,4 +5,5 @@ theme: minima
 header_pages:
   - index.md
   - projects.md
+  - blogs.md
   - erminia/index.md
