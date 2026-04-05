@@ -40,4 +40,10 @@ architectures.</p>
     <p>A full-stack mobile application to NOT use your phone while with friends. Enjoy life, Be Present.</p>
   </div>
 
+  <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+    <img src="/assets/DI.jpg" alt="DeepImpact Shuvalov et. al, 2017" style="width:100%; border-radius:10px;">
+    <h3>DeepImpact</h3>
+    <p>The Deepimpact package provides an integrated toolchain for modelling atmospheric entry events and assessing their ground-level consequences for the UK (as default). It combines an airburst modelling with fast geospatial lookup and mapping utilities, enabling end-to-end analysis—from asteroid entry physics to postcode-level damage estimation.</p>
+  </div>
+
 </div>
