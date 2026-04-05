@@ -16,6 +16,7 @@ architectures.</p>
 
   <div style="flex: 1 1 300px; border: 1px solid #ddd; border-radius: 10px; padding: 15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
     <img src="assets/CF.gif" alt="Image Processing" style="width:100%; border-radius:10px;">
+    <h3>Krager</h3>
     <p>A unified C++ command-line image processing library addressing 2D spatial filtering, 3D volume projections, and slicing operations.
     This project implements core computational algorithms from scratch. This includes bespoke median-finding algorithms,
     custom convolution spatial loops, and manual memory management for large 3D datasets, ensuring a deep understanding of algorithmic complexity and software sustainability.</p>
