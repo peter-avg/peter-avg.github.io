@@ -3,15 +3,13 @@ title: Hello World! 👋
 layout: page
 ---
 
-<div style="display: flex; align-items: center; gap: 30px; flex-wrap: wrap;">
+<div class="hero">
 
-  <div style="flex: 0 0 200px;">
-    <img src="assets/me.jpg" alt="Peter Avgerinos" 
-         style="width: 180px; border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
-
+  <div class="hero-photo">
+    <img src="assets/me.jpg" alt="Peter Avgerinos">
   </div>
 
-  <div style="flex: 1; min-width: 250px;">
+  <div class="hero-content">
     <p>My name is <strong>Petros (Peter) Avgerinos</strong> and I am an MSc student at 
     <strong>Imperial College London</strong>, studying Applied Computational Science and Engineering.
     I am currently working towards my thesis, under the supervision of <strong>Professor Rhodri Nelson</strong>
@@ -24,7 +22,7 @@ layout: page
     working on a variety of projects related to the responsible development and deployment of trustworthy AI systems.</p>
 
   <p>You can view my CV 
-  <a href="assets/Petros Avgerinos CV.pdf" target="_blank" style="color: #0073b1; text-decoration: underline;"> here </a>.
+  <a href="assets/Petros Avgerinos CV.pdf" target="_blank"> here </a>.
   </p>
   </div>
 
