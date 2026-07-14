@@ -20,7 +20,7 @@ layout: page
 
     <p>My undergraduate degree was a 5-year diploma in Electrical and Computer Engineering 
     from the <strong>National Technical University of Athens (NTUA)</strong>. After graduating from NTUA in 2024, 
-    I joined the Institute of Communication and Computer Systems (ICCS) as a research associate,
+    I joined the Institute of Communication and Computer Systems (ICCS) as a Software Engineer,
     working on a variety of projects related to the responsible development and deployment of trustworthy AI systems.</p>
 
   <p>You can view my CV 
